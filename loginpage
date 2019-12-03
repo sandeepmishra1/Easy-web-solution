@@ -1,0 +1,13 @@
+
+<html>
+<head>
+<body>
+	<link rel="stylesheet" href="try.css">
+<div class="container">
+<h1>Anwesha sahoo</h1>
+<p>1m followers</p>
+<button>Accept</button></br></br>
+<button class="a">Cancel</button>
+</body>
+</head>
+</html>
